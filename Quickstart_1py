@@ -1,0 +1,22 @@
+from manim import *
+
+#self.play() = Play animations
+#self.wait() = waits
+#self.add() = Adds objects
+#self.remove() = Removes an object
+
+#Creating a circle
+
+class CreateCircle(Scene): #Inside construct(), you can create objects, display them on screen, and animate them.
+    def construct(self):
+        circle = Circle()  # create a circle
+        circle.set_fill(BLUE, opacity=0.5)  # set the color and transparency
+        self.play(Create(circle))  # show the circle on screen
+    
+        square = Square()  # create a square
+        square.rotate(PI / 4)  # rotate a certain amount
+
+        self.play(Create(square))  # animate the creation of the square
+        self.play(Transform(square, circle))  # interpolate the square into the circle
+        self.play(FadeOut(square))  # fade out animation
+        
