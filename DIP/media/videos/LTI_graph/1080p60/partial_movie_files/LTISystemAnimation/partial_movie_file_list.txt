@@ -1,0 +1,6 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/Alessandro/Manim/DIP/media/videos/LTI_graph/1080p60/partial_movie_files/LTISystemAnimation/1413466013_3384598646_223132457.mp4'
+file 'file:C:/Users/Alessandro/Manim/DIP/media/videos/LTI_graph/1080p60/partial_movie_files/LTISystemAnimation/1672018281_1256656393_1315337800.mp4'
+file 'file:C:/Users/Alessandro/Manim/DIP/media/videos/LTI_graph/1080p60/partial_movie_files/LTISystemAnimation/1672018281_1370091771_1278250960.mp4'
+file 'file:C:/Users/Alessandro/Manim/DIP/media/videos/LTI_graph/1080p60/partial_movie_files/LTISystemAnimation/1672018281_344194697_1357844600.mp4'
+file 'file:C:/Users/Alessandro/Manim/DIP/media/videos/LTI_graph/1080p60/partial_movie_files/LTISystemAnimation/1672018281_190800790_2251707330.mp4'

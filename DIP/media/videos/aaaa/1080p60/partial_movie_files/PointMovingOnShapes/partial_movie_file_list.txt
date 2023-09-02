@@ -1,0 +1,6 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/Alessandro/Manim/DIP/media/videos/aaaa/1080p60/partial_movie_files/PointMovingOnShapes/1413466013_1208965454_105324400.mp4'
+file 'file:C:/Users/Alessandro/Manim/DIP/media/videos/aaaa/1080p60/partial_movie_files/PointMovingOnShapes/1672018281_2739017676_2758866461.mp4'
+file 'file:C:/Users/Alessandro/Manim/DIP/media/videos/aaaa/1080p60/partial_movie_files/PointMovingOnShapes/1672018281_524879086_1246660410.mp4'
+file 'file:C:/Users/Alessandro/Manim/DIP/media/videos/aaaa/1080p60/partial_movie_files/PointMovingOnShapes/1672018281_504841072_2758866461.mp4'
+file 'file:C:/Users/Alessandro/Manim/DIP/media/videos/aaaa/1080p60/partial_movie_files/PointMovingOnShapes/1672018281_3315967912_3192163222.mp4'

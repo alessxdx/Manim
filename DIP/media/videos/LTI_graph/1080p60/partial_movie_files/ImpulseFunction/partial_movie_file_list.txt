@@ -1,0 +1,3 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/Alessandro/Manim/DIP/media/videos/LTI_graph/1080p60/partial_movie_files/ImpulseFunction/1413466013_1456690245_223132457.mp4'
+file 'file:C:/Users/Alessandro/Manim/DIP/media/videos/LTI_graph/1080p60/partial_movie_files/ImpulseFunction/1672018281_190800790_2594621239.mp4'

@@ -1,0 +1,8 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/Alessandro/Manim/DIP/media/videos/LTI_graph1/1080p60/partial_movie_files/LTI/1413466013_3315967912_2750823615.mp4'
+file 'file:C:/Users/Alessandro/Manim/DIP/media/videos/LTI_graph1/1080p60/partial_movie_files/LTI/1672018281_2500067322_960251915.mp4'
+file 'file:C:/Users/Alessandro/Manim/DIP/media/videos/LTI_graph1/1080p60/partial_movie_files/LTI/1672018281_1802434094_4067559736.mp4'
+file 'file:C:/Users/Alessandro/Manim/DIP/media/videos/LTI_graph1/1080p60/partial_movie_files/LTI/1672018281_345352296_3547520947.mp4'
+file 'file:C:/Users/Alessandro/Manim/DIP/media/videos/LTI_graph1/1080p60/partial_movie_files/LTI/1672018281_345352296_1670853728.mp4'
+file 'file:C:/Users/Alessandro/Manim/DIP/media/videos/LTI_graph1/1080p60/partial_movie_files/LTI/1672018281_517976267_971418068.mp4'
+file 'file:C:/Users/Alessandro/Manim/DIP/media/videos/LTI_graph1/1080p60/partial_movie_files/LTI/1672018281_341445149_1085572655.mp4'

@@ -1,0 +1,10 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/Alessandro/Manim/DIP/media/videos/aaaa/1080p60/partial_movie_files/BooleanOperations/1413466013_2658248220_223132457.mp4'
+file 'file:C:/Users/Alessandro/Manim/DIP/media/videos/aaaa/1080p60/partial_movie_files/BooleanOperations/1672018281_2838621243_2516678749.mp4'
+file 'file:C:/Users/Alessandro/Manim/DIP/media/videos/aaaa/1080p60/partial_movie_files/BooleanOperations/1672018281_1012933354_4090111253.mp4'
+file 'file:C:/Users/Alessandro/Manim/DIP/media/videos/aaaa/1080p60/partial_movie_files/BooleanOperations/1672018281_1475590243_4028790296.mp4'
+file 'file:C:/Users/Alessandro/Manim/DIP/media/videos/aaaa/1080p60/partial_movie_files/BooleanOperations/1672018281_702579030_3495670837.mp4'
+file 'file:C:/Users/Alessandro/Manim/DIP/media/videos/aaaa/1080p60/partial_movie_files/BooleanOperations/1672018281_1035132662_4239784812.mp4'
+file 'file:C:/Users/Alessandro/Manim/DIP/media/videos/aaaa/1080p60/partial_movie_files/BooleanOperations/1672018281_151999517_3202367389.mp4'
+file 'file:C:/Users/Alessandro/Manim/DIP/media/videos/aaaa/1080p60/partial_movie_files/BooleanOperations/1672018281_3400408700_2567705775.mp4'
+file 'file:C:/Users/Alessandro/Manim/DIP/media/videos/aaaa/1080p60/partial_movie_files/BooleanOperations/1672018281_2047097594_915156300.mp4'

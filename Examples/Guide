@@ -1,0 +1,51 @@
+# from manim import *
+
+# class Guide(Scene): 
+#     def construct(self):
+        
+#         # numberplane
+#         self.add(NumberPlane())
+
+#         # Axes
+#         ax1=Axes()
+#         ax2=Axes()
+
+#         # Graphs
+#         # for x in range(-5,5)
+#         # g1=ax1.plot_line_graph(x_values=[x,x], y_values=[0,(-1)^x])
+
+#         g1 = ax1.plot(lambda t:np.cos(t))
+#                     # f(t)=cos(t)
+
+#         g2 = ax2.plot(lambda t: np.sin(t))
+
+#         vg1=VGroup(ax1,g1).shift(UP*2).scale(0.5)
+#         vg2=VGroup(ax2,g2).shift(LEFT*3, DOWN*2).scale(0.5)
+        
+#         self.add(vg1,vg2)
+
+#         # Animations
+#         self.play(vg2.animate.shift([6,0,0]),run_time=6, rate_func=linear)
+
+from manim import *
+import numpy as np
+
+class Guide(Scene):
+    def construct(self):
+        
+        # Numberplane
+        self.add(NumberPlane())
+
+        # Axes
+        ax = Axes()
+
+        # Graphs
+        graph_cos = ax.plot(lambda x: np.cos(x), color=WHITE)
+        graph_sin = ax.plot(lambda x: np.sin(x), color=WHITE)
+
+        vg = VGroup(ax, graph_cos, graph_sin).scale(0.5)
+        
+        self.play(Create(vg))
+
+        # Animations
+        self.play(vg.animate.shift(RIGHT*3), run_time=6, rate_func=linear)

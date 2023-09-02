@@ -1,0 +1,9 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/Alessandro/Manim/DIP/media/videos/superposition_graph/1080p60/partial_movie_files/SuperpositionAnimation/1413466013_4276365052_223132457.mp4'
+file 'file:C:/Users/Alessandro/Manim/DIP/media/videos/superposition_graph/1080p60/partial_movie_files/SuperpositionAnimation/1672018281_28382209_2866110614.mp4'
+file 'file:C:/Users/Alessandro/Manim/DIP/media/videos/superposition_graph/1080p60/partial_movie_files/SuperpositionAnimation/1672018281_3012779210_2404151914.mp4'
+file 'file:C:/Users/Alessandro/Manim/DIP/media/videos/superposition_graph/1080p60/partial_movie_files/SuperpositionAnimation/1672018281_345352296_4241468221.mp4'
+file 'file:C:/Users/Alessandro/Manim/DIP/media/videos/superposition_graph/1080p60/partial_movie_files/SuperpositionAnimation/1672018281_806420223_518852754.mp4'
+file 'file:C:/Users/Alessandro/Manim/DIP/media/videos/superposition_graph/1080p60/partial_movie_files/SuperpositionAnimation/1672018281_619131563_3433426750.mp4'
+file 'file:C:/Users/Alessandro/Manim/DIP/media/videos/superposition_graph/1080p60/partial_movie_files/SuperpositionAnimation/1672018281_3843396028_12577825.mp4'
+file 'file:C:/Users/Alessandro/Manim/DIP/media/videos/superposition_graph/1080p60/partial_movie_files/SuperpositionAnimation/1672018281_190800790_2360218977.mp4'

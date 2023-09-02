@@ -1,0 +1,3 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/Alessandro/Manim/Examples/media/videos/example4/1080p60/partial_movie_files/ConvolutionSumAnimation/1413466013_3206760114_223132457.mp4'
+file 'file:C:/Users/Alessandro/Manim/Examples/media/videos/example4/1080p60/partial_movie_files/ConvolutionSumAnimation/1672018281_3315967912_3387303656.mp4'
